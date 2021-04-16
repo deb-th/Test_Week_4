@@ -1,0 +1,9 @@
+C:\Users\deborah.tucci\Desktop\Test_Week4\GestioneOrdiniClienti\GestioneOrdiniClienti\bin\Debug\netstandard2.0\GestioneOrdiniClienti.deps.json
+C:\Users\deborah.tucci\Desktop\Test_Week4\GestioneOrdiniClienti\GestioneOrdiniClienti\bin\Debug\netstandard2.0\GestioneOrdiniClienti.dll
+C:\Users\deborah.tucci\Desktop\Test_Week4\GestioneOrdiniClienti\GestioneOrdiniClienti\bin\Debug\netstandard2.0\GestioneOrdiniClienti.pdb
+C:\Users\deborah.tucci\Desktop\Test_Week4\GestioneOrdiniClienti\GestioneOrdiniClienti\obj\Debug\netstandard2.0\GestioneOrdiniClienti.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Test_Week4\GestioneOrdiniClienti\GestioneOrdiniClienti\obj\Debug\netstandard2.0\GestioneOrdiniClienti.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Test_Week4\GestioneOrdiniClienti\GestioneOrdiniClienti\obj\Debug\netstandard2.0\GestioneOrdiniClienti.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Test_Week4\GestioneOrdiniClienti\GestioneOrdiniClienti\obj\Debug\netstandard2.0\GestioneOrdiniClienti.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Test_Week4\GestioneOrdiniClienti\GestioneOrdiniClienti\obj\Debug\netstandard2.0\GestioneOrdiniClienti.dll
+C:\Users\deborah.tucci\Desktop\Test_Week4\GestioneOrdiniClienti\GestioneOrdiniClienti\obj\Debug\netstandard2.0\GestioneOrdiniClienti.pdb
